@@ -1,0 +1,107 @@
+ body {
+    background-image: url("arrows.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0%;
+    height: 100%;
+    padding: 0%;
+
+}
+
+.contenteditable {
+    height: 100%;
+    top: 18%;
+    position: absolute;
+    font-family: Salsa;
+    font-style: Regular;
+    font-size: 30px;
+    line-height: 17px;
+    text-align: left;
+    margin: 5%;
+}
+    .s { height: 100%;
+        top: 5%;
+        position: relative;
+        font-family: Salsa;
+        font-style: Regular;
+        font-size: 30px;
+        line-height: 17px;
+        left: 5%;
+
+
+    }
+
+header{
+    color: black;
+    background-color:rgb(130, 130, 130);
+    text-align: center;
+    margin: 0%;
+    padding: 0%;
+    width: 100%;
+    top: 0px;
+    font-family: Salsa;
+    font-style: Regular;
+    font-size: 36px;
+    line-height: 10px;
+    position: fixed;
+
+
+
+
+}
+footer {
+    background-color:rgb(130, 130, 130);
+    text-align: center;
+    width: 100%;
+    bottom: 0%;
+    display: inline-block;
+    position: absolute;
+    height: 5%;
+    text-align: center;
+    grid-area: footer;
+    position: fixed;
+}
+
+
+span {
+    color: blue;
+}
+button {
+    bottom: 60%;
+    position: absolute;
+    font-family: Salsa;
+    font-style: Regular;
+    font-size: 24px;
+    line-height: 17px;
+    left: 18%;
+    background-color: violet;
+
+}
+div {
+    font-family: Salsa;
+    font-style: Regular;
+    font-size: 35px;
+    line-height: 29px;
+    left: 60%;
+    top: 12%;
+    position: absolute;
+}
+nav {
+    font-family: Salsa;
+    font-style: Regular;
+    font-size: 35px;
+    line-height: 29px;
+    left: 72%;
+    top: 12%;
+    position: absolute;
+} 
+aside {
+bottom: 8%;
+font-family: Salsa;
+font-style: Regular;
+font-size: 28px;
+line-height: 29px;
+position: absolute;
+left: 5%;
+}
+
